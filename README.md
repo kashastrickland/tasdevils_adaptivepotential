@@ -9,7 +9,6 @@ All data required to reproduce analyses for manuscript entitled "Adaptive potent
 The datasets contain the following variables:
 "Microchip"; unique microchip used as individual identifier
 "Sex"; individuals sex
-"YOB"; year of birth of individual
 "Weight"; Body weight in kg at that capture event
 "Headwidth"; head width in mm at that capture event
 "year"; year of capture
